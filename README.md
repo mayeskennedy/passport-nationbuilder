@@ -12,4 +12,4 @@ using the OAuth 2.0 API.
 
 [The MIT License](http://opensource.org/licenses/MIT)
 
-Copyright (c) 2011-2014 Jared Hanson <[http://jaredhanson.net/](http://jaredhanson.net/)>
+Copyright (c) 2015 Mayes, Kennedy & Company Limited <[http://mayeskennedy.co.uk/](http://mayeskennedy.co.uk/)>
