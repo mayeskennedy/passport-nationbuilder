@@ -1,6 +1,6 @@
 {
   "name": "passport-nationbuilder",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "NationBuilder authentication strategy for Passport.",
   "keywords": [
     "passport",
